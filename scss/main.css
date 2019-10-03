@@ -33,4 +33,31 @@ body {
   border: 1px solid #990000;
   background: #fff; }
 
+.text-success {
+  color: #3c763d; }
+
+.text-error {
+  color: #a94442; }
+
+.text-warning {
+  color: #8a6d3b; }
+
+.message, .message-success, .message-error, .message-warning {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  color: #333; }
+
+.message-success {
+  border-color: #3c763d;
+  color: #3c763d; }
+
+.message-error {
+  border-color: #a94442;
+  color: #a94442; }
+
+.message-warning {
+  border-color: #8a6d3b;
+  color: #8a6d3b; }
+
 /*# sourceMappingURL=main.css.map */
